@@ -7,4 +7,4 @@
 <code>🧑‍💻 Languages: JavaScript,</code>
 <code>📦 Tech stack: node.js, angular, mongodb</code>
 <code>🪙 [Rates](RATES.md)</code><br>
-<code>📫 [your-email](mailto:gster7678@gmail.com)</code>
+<code>📫 [gster7678@gmail.com](mailto:gster7678@gmail.com)</code>
